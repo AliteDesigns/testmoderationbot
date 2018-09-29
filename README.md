@@ -1,0 +1,2 @@
+# testmoderationbot
+Test bot
